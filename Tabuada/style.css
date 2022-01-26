@@ -1,0 +1,38 @@
+body {
+  background-color: cornflowerblue;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font: normal 40px arial;
+  margin-top: 150px;
+}
+
+#container {
+  background-color: white;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  margin-top: 100px;
+  box-sizing: border-box;
+  box-shadow: black 20;
+  border-radius: 10px;
+}
+
+input {
+  margin: 30px;
+}
+label {
+  margin: 40px 0px 20px 30px;
+}
+select {
+  width: 200px;
+  height: 20px;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font: 20px normal arial;
+}
